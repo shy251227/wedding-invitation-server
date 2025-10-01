@@ -1,0 +1,5 @@
+runtime: go122
+
+env_variables:
+  ALLOW_ORIGIN: "https://shy251227.github.io"
+  ADMIN_PASSWORD: "semi!!0213"
